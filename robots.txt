@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moginger.github.io/skool-review/sitemap.xml
